@@ -49,38 +49,38 @@ The system analyzes 15+ URL features and achieves high detection accuracy while 
 
 The system consists of multiple modules:
 
-1. Input Processing
+#### 1. Input Processing
 
-- URL validation
+   - URL validation
 
-- Protocol detection (HTTP/HTTPS)
+   - Protocol detection (HTTP/HTTPS)
 
-- Input sanitization
+   - Input sanitization
 
-2. Feature Engineering
+#### 2. Feature Engineering
 
-- Structural features
+   - Structural features
 
-- Content-based features
+   - Content-based features
 
-- Security indicators
+   - Security indicators
 
-3. Machine Learning Processing
+#### 3. Machine Learning Processing
 
-- Prediction Module
+   - Prediction Module
 
-- Detection Module
+   - Detection Module
 
-4. Result Integration
+#### 4. Result Integration
 
-- Risk score calculation
+   - Risk score calculation
 
-- Threat classification
+   - Threat classification
 
-- Security recommendations
+   - Security recommendations
 
-5. Output Delivery
+#### 5. Output Delivery
 
-- JSON API responses
+   - JSON API responses
 
-- Dashboard visualization
+   - Dashboard visualization
