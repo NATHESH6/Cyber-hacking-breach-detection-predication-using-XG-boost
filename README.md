@@ -44,3 +44,43 @@ The system analyzes 15+ URL features and achieves high detection accuracy while 
 - Real-time monitoring
 
 - Security alerts and reports
+
+## System Architecture
+
+The system consists of multiple modules:
+
+1. Input Processing
+
+- URL validation
+
+- Protocol detection (HTTP/HTTPS)
+
+- Input sanitization
+
+2. Feature Engineering
+
+- Structural features
+
+- Content-based features
+
+- Security indicators
+
+3. Machine Learning Processing
+
+- Prediction Module
+
+- Detection Module
+
+4. Result Integration
+
+- Risk score calculation
+
+- Threat classification
+
+- Security recommendations
+
+5. Output Delivery
+
+- JSON API responses
+
+- Dashboard visualization
