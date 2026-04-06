@@ -1,6 +1,6 @@
 # Cyber Hacking Breach Detection & Prediction using XGBoost
 
-The **Cyber Hacking Breachers Detect and Predict** project focuses on identifying and predicting malicious URLs using machine learning techniques. By leveraging the powerful **XGBoost** algorithm, this project analyzes various URL features such as structure, keywords, SSL status, and domain information to detect and predict potential cyber threats.
+The Cyber Hacking Breachers Detect and Predict project focuses on identifying and predicting malicious URLs using machine learning techniques. By leveraging the powerful XGBoost algorithm, this project analyzes various URL features such as structure, keywords, SSL status, and domain information to detect and predict potential cyber threats.
 
 ---
 
@@ -16,7 +16,7 @@ The **Cyber Hacking Breachers Detect and Predict** project focuses on identifyin
 
 ## Project Goals
 1. Detect malicious URLs by analyzing their structure and metadata.
-2. Leverage the **XGBoost algorithm** to ensure high accuracy in prediction.
+2. Leverage the XGBoost algorithm to ensure high accuracy in prediction.
 3. Provide an accessible tool for cybersecurity teams to proactively defend against phishing and malware attacks.
 4. Educate users and organizations on the vulnerable aspects of URLs and the importance of secure web practices.
 1
@@ -76,7 +76,7 @@ The python program once run  auto frontend local host open
 1. Access the application via the host URL, e.g., `http://localhost:5000`.
 2. Upload a dataset of URLs or manually input URL features for analysis.
 3. View the predictions:
-   - Whether the URL is **malicious** or **safe**.
+   - Whether the URL is malicious or safe.
    - Reasons for classification.
 
 ### Testing
