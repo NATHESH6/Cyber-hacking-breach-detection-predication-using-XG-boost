@@ -19,7 +19,7 @@ The **Cyber Hacking Breachers Detect and Predict** project focuses on identifyin
 2. Leverage the **XGBoost algorithm** to ensure high accuracy in prediction.
 3. Provide an accessible tool for cybersecurity teams to proactively defend against phishing and malware attacks.
 4. Educate users and organizations on the vulnerable aspects of URLs and the importance of secure web practices.
-
+1
 ---
 
 ## Why Use This Project?
@@ -62,13 +62,6 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
-3. Navigate to the `static/` folder and install front-end dependencies:
-   ```bash
-   cd static
-   npm install
-   ```
-4. (Optional) Configure your dataset by placing your data files in the `data/` directory.
-
 ---
 
 ## Usage Guidelines
@@ -77,14 +70,10 @@ Run the Python backend:
 ```bash
 python app.py
 ```
-
-Serve the front-end interface:
-```bash
-npm start
-```
+The python program once run  auto frontend local host open 
 
 ### Predictions
-1. Access the application via the host URL, e.g., `http://localhost:3000`.
+1. Access the application via the host URL, e.g., `http://localhost:5000`.
 2. Upload a dataset of URLs or manually input URL features for analysis.
 3. View the predictions:
    - Whether the URL is **malicious** or **safe**.
@@ -99,7 +88,7 @@ pytest tests/
 ---
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under The Coimbatore Institute of Engineering and Technology (CIET) License. See the `LICENSE` file for details.
 
 ---
 
